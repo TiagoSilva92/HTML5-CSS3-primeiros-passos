@@ -228,12 +228,12 @@ td, th {
     font-weight: bold;
 }
 
-.imagem-beneficios {
-    width: 60%;
+.itens:before {
+    content: "★";
 }
 
-.mapa {
-    padding: 3em 0;
+.imagem-beneficios {
+    width: 60%;
 }
 
 .video {
